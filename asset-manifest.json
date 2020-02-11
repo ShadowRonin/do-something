@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ShadowRonin/do-something/static/css/main.385dc172.chunk.css",
+    "main.js": "/ShadowRonin/do-something/static/js/main.b2a03f63.chunk.js",
+    "main.js.map": "/ShadowRonin/do-something/static/js/main.b2a03f63.chunk.js.map",
+    "runtime-main.js": "/ShadowRonin/do-something/static/js/runtime-main.25b831f3.js",
+    "runtime-main.js.map": "/ShadowRonin/do-something/static/js/runtime-main.25b831f3.js.map",
+    "static/js/2.d27bf924.chunk.js": "/ShadowRonin/do-something/static/js/2.d27bf924.chunk.js",
+    "static/js/2.d27bf924.chunk.js.map": "/ShadowRonin/do-something/static/js/2.d27bf924.chunk.js.map",
+    "index.html": "/ShadowRonin/do-something/index.html",
+    "precache-manifest.789612f8aa7a5c29e5c7429e187bd7ef.js": "/ShadowRonin/do-something/precache-manifest.789612f8aa7a5c29e5c7429e187bd7ef.js",
+    "service-worker.js": "/ShadowRonin/do-something/service-worker.js",
+    "static/css/main.385dc172.chunk.css.map": "/ShadowRonin/do-something/static/css/main.385dc172.chunk.css.map",
+    "static/js/2.d27bf924.chunk.js.LICENSE.txt": "/ShadowRonin/do-something/static/js/2.d27bf924.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ShadowRonin/do-something/static/media/refresh-cw.4456b946.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25b831f3.js",
+    "static/js/2.d27bf924.chunk.js",
+    "static/css/main.385dc172.chunk.css",
+    "static/js/main.b2a03f63.chunk.js"
+  ]
+}

@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ShadowRonin/do-something/static/css/main.385dc172.chunk.css",
-    "main.js": "/ShadowRonin/do-something/static/js/main.b2a03f63.chunk.js",
-    "main.js.map": "/ShadowRonin/do-something/static/js/main.b2a03f63.chunk.js.map",
-    "runtime-main.js": "/ShadowRonin/do-something/static/js/runtime-main.25b831f3.js",
-    "runtime-main.js.map": "/ShadowRonin/do-something/static/js/runtime-main.25b831f3.js.map",
-    "static/js/2.d27bf924.chunk.js": "/ShadowRonin/do-something/static/js/2.d27bf924.chunk.js",
-    "static/js/2.d27bf924.chunk.js.map": "/ShadowRonin/do-something/static/js/2.d27bf924.chunk.js.map",
-    "index.html": "/ShadowRonin/do-something/index.html",
-    "precache-manifest.789612f8aa7a5c29e5c7429e187bd7ef.js": "/ShadowRonin/do-something/precache-manifest.789612f8aa7a5c29e5c7429e187bd7ef.js",
-    "service-worker.js": "/ShadowRonin/do-something/service-worker.js",
-    "static/css/main.385dc172.chunk.css.map": "/ShadowRonin/do-something/static/css/main.385dc172.chunk.css.map",
-    "static/js/2.d27bf924.chunk.js.LICENSE.txt": "/ShadowRonin/do-something/static/js/2.d27bf924.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/ShadowRonin/do-something/static/media/refresh-cw.4456b946.svg"
+    "main.css": "/do-something/static/css/main.b35d665d.chunk.css",
+    "main.js": "/do-something/static/js/main.a1d4a50a.chunk.js",
+    "main.js.map": "/do-something/static/js/main.a1d4a50a.chunk.js.map",
+    "runtime-main.js": "/do-something/static/js/runtime-main.26663041.js",
+    "runtime-main.js.map": "/do-something/static/js/runtime-main.26663041.js.map",
+    "static/js/2.d27bf924.chunk.js": "/do-something/static/js/2.d27bf924.chunk.js",
+    "static/js/2.d27bf924.chunk.js.map": "/do-something/static/js/2.d27bf924.chunk.js.map",
+    "index.html": "/do-something/index.html",
+    "precache-manifest.80e4b9fefcf7b9e95724bc75edb3c3f2.js": "/do-something/precache-manifest.80e4b9fefcf7b9e95724bc75edb3c3f2.js",
+    "service-worker.js": "/do-something/service-worker.js",
+    "static/css/main.b35d665d.chunk.css.map": "/do-something/static/css/main.b35d665d.chunk.css.map",
+    "static/js/2.d27bf924.chunk.js.LICENSE.txt": "/do-something/static/js/2.d27bf924.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/do-something/static/media/refresh-cw.4456b946.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.25b831f3.js",
+    "static/js/runtime-main.26663041.js",
     "static/js/2.d27bf924.chunk.js",
-    "static/css/main.385dc172.chunk.css",
-    "static/js/main.b2a03f63.chunk.js"
+    "static/css/main.b35d665d.chunk.css",
+    "static/js/main.a1d4a50a.chunk.js"
   ]
 }
